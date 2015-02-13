@@ -1,0 +1,48 @@
+body {
+  background: url(images/wall.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: #aa816b;
+  font-family: 'wire-one', sans-serif;
+}
+<<<<<<< Updated upstream
+footer {
+}
+<<<<<<< Updated upstream
+div {
+  background:rgba(255,255,255,.6);
+=======
+#aboutme {
+  background:rgba(255,255,255,.5);
+>>>>>>> Stashed changes
+  padding:1em;
+  width:12em;
+
+
+body {
+    color: #aa816b;
+    font-family: wire-one, sans-serif;
+}
+
+p {
+    font-weight: 100;
+    width: 12em;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 100;
+    line-height: 3em;
+}
+ul {
+    line-height: 1em;
+    color: #000000;
+}
+#slogan {
+    font-size: 2em;
+    font-style: italic;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 8em;
+    color: #ffffff;
+    width:auto;
+}
